@@ -8,8 +8,8 @@ import ResultsTable from '@/components/ResultsTable';
 
 const EXAMPLE_PROMPTS = [
   'Show all critical incidents',
-  'List personnel with TOP SECRET clearance',
-  'Show failed login attempts in the last 30 days',
+  'List personnel hired after 2022',
+  'Show all failed login attempts',
 ];
 
 interface QueryResult {
